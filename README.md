@@ -7,7 +7,7 @@ ALL PLATAFORMS!!!
 Installing:
 ```
 cd
-git clone
+git clone https://github.com/Lil-Faka/Metasploit-Installer.git
 chmod 777 msfinstaller
 sudo msfinstaller
 ```
