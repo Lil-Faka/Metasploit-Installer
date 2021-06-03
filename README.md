@@ -5,7 +5,10 @@ ALL PLATAFORMS!!!
 
 
 Installing:
+```
 cd
 git clone
 chmod 777 msfinstaller
 sudo msfinstaller
+```
+Thats all
